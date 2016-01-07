@@ -1,6 +1,6 @@
 ##Content
 
-###[Workly - Cloud System](change-history.md)
+###[Workly - Cloud System](cloud-system/cloud-system-doc.md)
 
 ###TimePad
  - [TimePad Doc](timepad/timepad-doc.md)
@@ -11,6 +11,6 @@
  - [Android App](app-android-change-history.md)
  - [IOs App](app-ios-change-history.md)
  
-###[Workly Offline System](offline-change-history.md)
+###[Workly Offline System](offline-system/offline-doc.md)
 
 

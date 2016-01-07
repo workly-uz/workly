@@ -8,8 +8,9 @@
  - [IOs App](timepad/timepad-ios/timepad-ios-change-history.md)
  
 ###Workly Mobile
- - [Android App](app-android-change-history.md)
- - [IOs App](app-ios-change-history.md)
+ - [Mobile App Doc](mobile-app/mobile-app-doc.md)
+ - [Android App](mobile-app/android-app/app-android-change-history.md)
+ - [IOs App](mobile-app/ios-app/app-ios-change-history.md)
  
 ###[Workly Offline System](offline-system/offline-doc.md)
 

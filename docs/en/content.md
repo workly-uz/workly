@@ -3,7 +3,7 @@
 ###[Workly - Cloud System](change-history.md)
 
 ###TimePad
- - [TimePad Doc](timepad/timepad-android.md)
+ - [TimePad Doc](timepad/timepad-doc.md)
  - [Android App](timepad/timepad-android/timepad-android-change-history.md)
  - [IOs App](timepad/timepad-ios/timepad-ios-change-history.md)
  

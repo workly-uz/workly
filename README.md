@@ -5,6 +5,8 @@ Workly is the time &amp; attendance solution for your business.
 
 Documentation on:
 
+- [Ўзбекча](docs/uz/content.md)
+
 - [English](docs/en/content.md)
 
 - [Русский](docs/ru/content.md)
